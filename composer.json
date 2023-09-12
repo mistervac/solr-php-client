@@ -1,6 +1,6 @@
 {
-	"name": "ptcinc/solr-php-client",
-	"description": "A purely PHP library for indexing and searching documents against an Apache Solr installation",
+	"name": "mistervac/solr-php-client",
+	"description": "Original forked from PTCInc/solr-php-client",
 	"keywords": ["php", "solr", "client"],
 	"license": "BSD-3-Clause",
 	"authors": [
